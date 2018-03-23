@@ -18,7 +18,7 @@ Vagrant.configure("2") do |config|
         v.memory = 3072
         v.cpus = 2
       end
-      config.ssh.userName = "vagrant"
+      config.ssh.username = "vagrant"
       config.ssh.password = "vagrant"
       config.ssh.insert_key = true
 

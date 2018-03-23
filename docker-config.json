@@ -3,8 +3,8 @@
   {
     "default":
     {
-      "httpProxy": "http://userName:userPassword@bluecoat.media-saturn.com:80",
-      "httpsProxy": "http://userName:userPassword@bluecoat.media-saturn.com:80",
+      "httpProxy": "http://poxyUserName:poxyUserPassword@bluecoat.media-saturn.com:80",
+      "httpsProxy": "http://poxyUserName:poxyUserPassword@bluecoat.media-saturn.com:80",
       "noProxy": "localhost,192.168.1.*,127.0.0.1,*.media-saturn.com,.mesa.nexinto.com"
     }
   }

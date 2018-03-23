@@ -33,7 +33,7 @@ print_db_usage () {
   echo "  Host: localhost"
   echo "  Port: 15432"
   echo "  Database: $APP_DB_NAME"
-  echo "  userName: $APP_DB_USER"
+  echo "  poxyUserName: $APP_DB_USER"
   echo "  Password: $APP_DB_PASS"
   echo ""
   echo "Admin access to postgres user via VM:"
